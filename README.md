@@ -1,2 +1,2 @@
 # CodebehindTask
-Olimpic games basketball simulation
+Olympic games basketball tournament simulation
